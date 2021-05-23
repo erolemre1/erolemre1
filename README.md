@@ -1,6 +1,6 @@
-### Hi there, I'm Emre! 👋
+## Hi there, I'm Emre! 👋
 
-#### A little about me
+### A little about me
 
 I am a self-taught  junior front end developer who develops myself in the field of front end technologies. Such as Html, Css, JavaScript and much more. I like to solve problems by using different tools and technologies. I attach great importance to open source and share my projects on github.  And I am also interested in mobile technologies. As a side project, I developed an application with react native.
 
