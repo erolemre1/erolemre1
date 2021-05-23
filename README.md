@@ -12,5 +12,5 @@ A few quick facts
 - 🔭 I’m currently working on Web Technologies
 - 🌱 I’m currently learning React and other Js Frameworks
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: emreglcfb@gmail.com
+- 📫 How to reach me: emreglcb@gmail.com
 - 😄 Pronouns: developer
